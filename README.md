@@ -138,7 +138,7 @@ plt.title("PACF of ARMA(2,2)")
 plt.show()
 
 ```
-#OUTPUT:
+## OUTPUT:
 
 RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
