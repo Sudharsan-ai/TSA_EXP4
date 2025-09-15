@@ -1,5 +1,8 @@
-# Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
+## Devloped by: Sudharsan S
+## Register Number: 212224040334
 # Date: 
+
+# Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
 
 
 
@@ -139,6 +142,49 @@ plt.show()
 
 ```
 ## OUTPUT:
+
+Original data:
+
+<img width="1384" height="696" alt="Screenshot 2025-09-15 160809" src="https://github.com/user-attachments/assets/14a11ead-6ae3-4d4d-a132-10c03291279c" />
+
+
+Partial Autocorrelation:-
+
+<img width="1364" height="335" alt="Screenshot 2025-09-15 160837" src="https://github.com/user-attachments/assets/da1b0591-a778-431c-ab87-1eafeffa6638" />
+
+
+Autocorrelation:-
+
+<img width="1389" height="359" alt="Screenshot 2025-09-15 160827" src="https://github.com/user-attachments/assets/79c9195b-fdf2-4e10-b9f6-43c127ac0f9d" />
+
+
+SIMULATED ARMA(1,1) PROCESS:
+
+
+<img width="1314" height="665" alt="Screenshot 2025-09-15 160846" src="https://github.com/user-attachments/assets/412eb06e-4126-4fe1-ab75-d55b763c0934" />
+
+Partial Autocorrelation:-
+
+
+<img width="1324" height="672" alt="Screenshot 2025-09-15 160912" src="https://github.com/user-attachments/assets/d6b74e09-4676-4ece-a3f4-2a7e26943af7" />
+
+Autocorrelation:-
+
+<img width="1323" height="650" alt="Screenshot 2025-09-15 160902" src="https://github.com/user-attachments/assets/d1d14832-60da-452a-81f6-b493ba1b8961" />
+
+SIMULATED ARMA(2,2) PROCESS:
+
+
+<img width="1319" height="700" alt="Screenshot 2025-09-15 160920" src="https://github.com/user-attachments/assets/77f140ad-a98e-4af9-ab05-4362e2bd0a11" />
+
+Partial Autocorrelation
+
+<img width="1347" height="688" alt="Screenshot 2025-09-15 160937" src="https://github.com/user-attachments/assets/ca7e29ab-b612-4789-b8a0-0ee8edf331de" />
+
+
+Autocorrelation
+
+<img width="1359" height="702" alt="Screenshot 2025-09-15 160930" src="https://github.com/user-attachments/assets/36c03470-4de3-466a-8a90-2008a693af05" />
 
 RESULT:
 Thus, a python program is created to fir ARMA Model successfully.
